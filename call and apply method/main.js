@@ -35,3 +35,21 @@ user.chargeBill.apply(localUser,[1000,20]);
 console.log(localUser.salary);
 
 
+// const student={
+//     id:100,
+//     name:'sohan',
+//     city:'bogura',
+//     getFullName:function( city){
+//      return this.name+","+city
+
+//     },
+// };
+
+
+
+// const user={
+//     name:'balam',
+//     id:255,
+// };
+
+// console.log(student.getFullName.apply(user,['bogura']))
